@@ -1,2 +1,2 @@
 # Netflix-Clone 
-using CSS & HTML
+using  HTML & CSS
